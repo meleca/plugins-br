@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/go-chat-bot/plugins-br.svg?style=svg)](https://circleci.com/gh/go-chat-bot/plugins-br)
+[![CircleCI](https://circleci.com/gh/meleca/plugins-br/tree/master.svg?style=svg)](https://circleci.com/gh/meleca/plugins-br/tree/master) [![Coverage Status](https://coveralls.io/repos/github/meleca/plugins-br/badge.svg?branch=master)](https://coveralls.io/github/meleca/plugins-br?branch=master)
 
 Plugins em pt-br.
 
