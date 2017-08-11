@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/go-chat-bot/bot"
+	"github.com/meleca/bot"
 	cnpjHelper "github.com/martinusso/go-docs/cnpj"
 )
 

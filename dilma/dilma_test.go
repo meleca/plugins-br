@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-chat-bot/bot"
+	"github.com/meleca/bot"
 )
 
 func TestDilmaWhenTheTextDoesNotMatchDilma(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-chat-bot/bot"
+	"github.com/meleca/bot"
 )
 
 const (

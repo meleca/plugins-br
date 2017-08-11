@@ -3,7 +3,7 @@ package megasena
 import (
 	"fmt"
 
-	"github.com/go-chat-bot/plugins/web"
+	"github.com/meleca/plugins/web"
 )
 
 var (
