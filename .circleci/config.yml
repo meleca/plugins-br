@@ -7,7 +7,7 @@ jobs:
     docker:
       - image: circleci/golang:1.8
 
-    working_directory: /go/src/github.com/meleca/plugins
+    working_directory: /go/src/github.com/meleca/plugins-br
 
     environment:
       COVERAGE_DIR: /tmp/coverage-dir
